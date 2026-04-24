@@ -1,4 +1,4 @@
-package practica03;
+package practica03.ejercicio2;
 
 public class Subsecuencia {
 
